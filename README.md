@@ -1,2 +1,2 @@
 # OpenGL-examples
-A sample of OpenGL examples. 
+Some OpenGL examples. 
